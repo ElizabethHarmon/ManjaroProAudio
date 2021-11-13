@@ -52,7 +52,7 @@ Following this guide will hopefully allow you to get the best possible performan
     ```
     or, for kernels < 5.9:
     ```shell
-    sudo nano etc/default/cpupower` (uncomment governor and change to performance)
+    sudo nano /etc/default/cpupower (uncomment governor and change to performance)
     systemctl enable --now cpupower.service
     systemctl start cpupower.service
     ```
