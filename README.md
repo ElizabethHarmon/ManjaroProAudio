@@ -117,7 +117,7 @@ Following this guide will hopefully allow you to get the best possible performan
     yay -S downgrade
     sudo DOWNGRADE_FROM_ALA=1 downgrade wine-staging
     ```
-    note that as of writing this, v6.14 is the last known working version of wine-staging that doesn't break yabridge so choose 6.14 from the resulting list and accept addition to IgnorePkg to avoid accidental upgrading. Check https://github.com/robbert-vdh/yabridge#tested-with for up-to-date info.
+    ~~note that as of writing this, v6.14 is the last known working version of wine-staging that doesn't break yabridge so choose 6.14 from the resulting list and accept addition to IgnorePkg to avoid accidental upgrading~~. Check https://github.com/robbert-vdh/yabridge#tested-with for up-to-date info.
     
     OR...for the more adventurous:
     
