@@ -4,11 +4,11 @@ Following this guide will hopefully allow you to get the best possible performan
 
 1) Install Manjaro KDE
 
-2) realtimeconfigquickscan
+2) rtcqs (formerly known as realtimeconfigquickscan)
     ```shell
-    git clone https://github.com/raboof/realtimeconfigquickscan.git
-    cd realtimeconfigquickscan
-    ./realtimeconfigquickscan.pl
+    git clone https://codeberg.org/rtcqs/rtcqs.git
+    cd rtcqs
+    ./rtcqs.py
     ```
 
 3) install realtime-privileges
